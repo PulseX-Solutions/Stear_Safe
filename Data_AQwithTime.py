@@ -7,7 +7,7 @@ ser = serial.Serial('COM6', 115200)  # Replace 'COM6' with the correct port for 
 start_time = time.time()  # Record the start time
 
 # Open the text file in write mode
-with open('voltage_data.txt', 'w') as file:
+with open('voltage_data1.txt', 'w') as file:
     print("Press 'Ctrl+C' to stop recording.")
     try:
         while True:
