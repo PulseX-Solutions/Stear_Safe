@@ -1,8 +1,11 @@
 # SteerSafe 🚗💡
 
+![Device Photo](./Images/whatsapp-image-20240415-at-133421-bb3fc5ec@2x.png)
+*SteerSafe Device*
+
 ## Overview
 
-**SteerSafe** is an advanced, adaptable system designed to enhance driving safety through intelligent technology. Utilizing advanced RF communication and a versatile design, SteerSafe is compatible with various types of spectacles, including sunglasses and regular glasses. Its lightweight and power-efficient design ensures seamless integration and optimal performance for drivers in any setting.
+**SteerSafe** is an advanced, adaptable system that enhances driving safety through intelligent technology. Utilizing advanced RF communication and a versatile design, SteerSafe is compatible with various types of spectacles, including sunglasses and regular glasses. Its lightweight and power-efficient design ensures seamless integration and optimal performance for drivers in any setting.
 
 ## Key Features
 
@@ -17,15 +20,15 @@
 
 Here’s the team behind SteerSafe:
 
-![Team Photo](path/to/team_photo.jpg)
+![Team Photo](./Images/whatsapp-image-20240819-at-164708-0e35114c@2x.png)
 *The SteerSafe Development Team*
 
 ### Device 📱
 
 See the SteerSafe device in action:
 
-![Device Photo](path/to/device_photo.jpg)
-*SteerSafe Device*
+![Device Photo](./Images/whatsapp-image-20240415-at-133421-bb3fc5ec@2x.png)
+//*SteerSafe Device*
 
 ### PCB Designs 🖥️
 
@@ -33,8 +36,8 @@ Here are detailed images of the SteerSafe PCBs:
 
 | PCB Type        | Image                           | Description             |
 |-----------------|---------------------------------|-------------------------|
-| **PCB 1**       | ![PCB 1 Photo](path/to/pcb1_photo.jpg) | Description of PCB 1     |
-| **PCB 2**       | ![PCB 2 Photo](path/to/pcb2_photo.jpg) | Description of PCB 2     |
+| **PCB 1**       | ![PCB 1 Photo](./Images/ST_specs.png) | PCB for the Spectacles     |
+| **PCB 2**       | ![PCB 2 Photo](./Images/wb_full.png) | PCB for the Wristband    |
 
 ## License 📝
 
