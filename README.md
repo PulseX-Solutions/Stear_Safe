@@ -51,3 +51,4 @@ For more information or inquiries, please reach out to the development team:
 - **Anushka Samaranayake**
 - **Savinu Aththanayake**
 - **H.L.N.B. Haputhanthri**
+- **Sajitha Madugalle**
